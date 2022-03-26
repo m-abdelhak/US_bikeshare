@@ -25,7 +25,7 @@ The original files are much larger and messier, and we don't need to download th
 
 ## Statistics Computed
 
-We will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+We will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, the code is to provide the following information:
 
 #### 1. Popular times of travel (i.e., occurs most often in the start time)
 
@@ -59,7 +59,7 @@ We will learn about bike share use in Chicago, New York City, and Washington by 
 
 ## The Files
 
-To answer these questions using Python, we will need to write a Python script. you can find files in the repository
+To answer these questions using Python, we will need to write a Python script. we can find files in the repository
 
 chicago.csv.zip
 new_york_city.csv.zip
