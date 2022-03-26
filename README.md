@@ -61,9 +61,9 @@ We will learn about bike share use in Chicago, New York City, and Washington by 
 
 To answer these questions using Python, we will need to write a Python script. we can find files in the repository
 
-chicago.csv.zip
-new_york_city.csv.zip
-washington.csv.zip
+- chicago.csv.zip
+- new_york_city.csv.zip
+- washington.csv.zip
 
 All of these files are zipped, and to run the project in your machine you need to unzip them, and save them in the same project file directory.
 
